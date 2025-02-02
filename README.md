@@ -7,7 +7,7 @@
 </div>
 
 <!--Header Name-->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> I'ᴍ Miftah! 
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> I'ᴍ Miftah Rizky! 
 *Welcome to My Github Profile*
 <br /> 
 
@@ -17,7 +17,6 @@
 - ✨ Student of life :)
 - 👨‍🎓 I'm a student at Bandung Polytechnic of Manufacturing.
 - 🌱 I'm currently learning many things, I believe that everyday is a learning opportunity.
-- ✍ I write technical blogs, You can visit my blog site at [DEV](..).
 - ❤ Contributing to Open Source.
 - 💻 Visit my [Portfolio](..) for more details about me.
 <!--End Intro-->
@@ -42,16 +41,16 @@
 <h3 align="left">Current Learning</h3>
 <ul align="left">
   <li>Deepening my knowledge in Machine Learning and AI.</li>
-  <li>Cyber Security.</li>
+  <li>Cyber Security & Web Developer.</li>
   <li>Improving my skills in programming.</li>
 </ul>
   
 <h3 align="left">Latest Blog Posts</h3>
-<!-- <ul align="left">
-  <li><a href="#">😎Debug Like a Pro in 2025🧑‍💻</a></li>
-  <li><a href="#">✨Open-Source Hidden Gems v2🤯</a></li>
+<ul align="left">
+  <li><a href="#">😎How to learn Python🧑‍💻</a></li>
+  <li><a href="#">✨Open-Source Tools in CyberSecurity🤯</a></li>
   <li><a href="#">🫵You Should Try These Tools In Your Next Project</a></li>
-</ul> -->
+</ul>
 <br />
 <br />
 <br />
@@ -64,7 +63,6 @@
     <img alt="github-snake" src="https://raw.githubusercontent.com/mifthrizky/mifthrizky/output/github-snake.svg" />
   </picture>
 </p>
-<br />
 <!--Footer--> 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
